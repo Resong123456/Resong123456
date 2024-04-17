@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there💙
 <hr>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kaze321)](https://solved.ac/kaze321/)
+<!-- solved -->
 
+
+|name||
+|-|-|
+|solved💚 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kaze321)](https://solved.ac/kaze321/)|
+|mail💙|<img src="https://img.shields.io/badge/eunsong.ryu@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&color=blue">|
 
 
 <!--
